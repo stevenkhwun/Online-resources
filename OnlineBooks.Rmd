@@ -13,57 +13,25 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-This page holds a list of key official statistics terms and their definitions.
+
 
 # Machine Learning
 
 ## [An Introduction to Statistical Learning](https://www.statlearning.com/)
 
-This is the book website for the book *An Introduction to Statistical Learning* by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. The PDF version of the book could be downloaded and view online from this website. Further, data and other supporting materials such as Jupyter Notebook and R Markdown files are available.
+This is the book website for the book ***An Introduction to Statistical Learning with Applications in R*** by *Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani*. The PDF version of the book could be downloaded and view online from this website. Further, data and other supporting materials such as Jupyter Notebook and R Markdown files are available.
 
 Data for the book could also be found in my [GitHub site](https://github.com/stevenkhwun/Online-resources/tree/main/ISLR).
 
 
 
-
-
-
-
 # Python
 
-## Consumer Prices
+## [Python for Data Analysis](https://wesmckinney.com/book/)
 
-### Headline consumer price inflation (整體消費物價通脹率)
-
-
-### Underlying consumer price inflation (基本消費物價通脹率)
-Underlying consumer price inflation is calculated by netting out the effects of all the Government’s one-off relief measures introduced since 2007, including the waiver and the Government’s payment of public housing rentals, rates concessions, the suspension and subsequent abolition of the Employees Retraining Levy, subsidies for household electricity charges, and waivers of examination fees.
-
-計算基本消費物價通脹率時， 已撇除所有自二零零七年起實施的政府一次性紓緩措施所造成的效應； 這些措施包括公屋租金寬免和政府代繳公屋租金、差餉寬減、暫停和後來取消收取僱員再培訓徵款、住戶電費補貼， 以及考試費寬免。
-
-(Sources: C&SD publications)
-
-### CPI and GDP deflator
-
-The implicit price deflators of GDP and its main expenditure components are derived by
-dividing GDP at current prices byponding chained-dollar figures. The rate of
-change in the GDP deflator may differ substantially from that in the Composite CPI over
-the same time span. The Composite CPI covers consumer price inflation in particular.
-Yet the GDP deflator is a much broader measure of inflation for the entire economy, and
-takes into account all the price changes related to consumption, investment, exports and
-imports. Also, the rate of change in the GDP deflator may differ appreciably from that
-in the total final demand deflator, depending on the movement in the prices of final
-demand and imports. Likewise, the rate of change in the GDP deflator may differ
-appreciably from that in the domestic demand deflator, depending on the movement in
-the prices of imports and exports.
+This is the book website for the book ***Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter*** 3rd Edition by *Wes McKinney*. The book could be view online from this site. 
 
 
 
+# R
 
-
-# External trade
-
-## Terms of trade
-Terms of trade are defined as the ratio between the index of export prices and the index of import prices. If the export prices increase more than the import prices, a country has a positive terms of trade, as for the same amount of exports, it can purchase more imports. (Source: [OECD](https://data.oecd.org/trade/terms-of-trade.htm))
-
-The terms of trade is defined as the ratio of the prices of total exports to the prices of total imports. (Source: C&SD publications)
