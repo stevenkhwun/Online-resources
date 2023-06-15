@@ -21,6 +21,8 @@ This page holds a list of key official statistics terms and their definitions.
 
 This is the book website for the book *An Introduction to Statistical Learning* by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani. The PDF version of the book could be downloaded and view online from this website. Further, data and other supporting materials such as Jupyter Notebook and R Markdown files are available.
 
+Data for the book could also be found in my [GitHub site](https://github.com/stevenkhwun/Online-resources/tree/main/ISLR).
+
 
 
 

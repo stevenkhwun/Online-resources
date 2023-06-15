@@ -1,3 +1,3 @@
 # ISLR
 
-Data for the book *An Introduction to Statistical Learning with Applications in R* by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
+Data for the book ***An Introduction to Statistical Learning with Applications in R*** by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
