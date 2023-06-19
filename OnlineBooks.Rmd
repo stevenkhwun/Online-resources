@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## An Introduction to Statistical Learning
 
-This is the book website for the book ***[An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)*** by *Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani*. The PDF version of the book could be downloaded and view online from this website. Further, data and other supporting materials such as Jupyter Notebook and R Markdown files are available.
+This is the book website for the book ***[An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)*** by *Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani*. The PDF version of the book cab be downloaded and view online from this website. Further, data and other supporting materials such as Jupyter Notebook and R Markdown files are available.
 
 Data for the book could also be found in my [GitHub site](https://github.com/stevenkhwun/Online-resources/tree/main/ISLR).
 
@@ -29,7 +29,7 @@ Data for the book could also be found in my [GitHub site](https://github.com/ste
 
 ## Python for Data Analysis
 
-This is the book website for the book ***[Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://wesmckinney.com/book/)*** 3rd Edition by *Wes McKinney*. The book could be view online from this site. 
+This is the book website for the book ***[Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://wesmckinney.com/book/)*** 3rd Edition by *Wes McKinney*. The book can be view online from this site. 
 
 
 
@@ -37,10 +37,19 @@ This is the book website for the book ***[Python for Data Analysis: Data Wrangli
 
 ## R for Data Science (2e)
 
-This is the book website for the book ***[R for Data Science (2e)](https://r4ds.hadley.nz/)*** by *Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund*. The book could be view online from this website.
+This is the book website for the book ***[R for Data Science (2e)](https://r4ds.hadley.nz/)*** by *Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund*. The book can be view online from this website.
 
-The first edition of the book could be found [here](https://r4ds.had.co.nz/).
+The first edition of the book can be found [here](https://r4ds.had.co.nz/).
 
 ## R Markdown Cookbook
 
-This is the book website for the book ***[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)*** by *Yihui Xie, Christophe Dervieux and Emily Riederer*. The book could be view online from this website.
+This is the book website for the book ***[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)*** by *Yihui Xie, Christophe Dervieux and Emily Riederer*. The book can be view online from this website.
+
+
+# Forecasting
+
+## Forecasting: principles and practice, 3rd edition
+
+This is the book website for the book ***[Forecasting: principles and practice, 3rd edition (2021)](https://otexts.com/fpp3/)*** by *Rob J Hyndman and George Athanasopoulos*. The book can be view online.
+
+The author's website can be found [here](https://robjhyndman.com/).
