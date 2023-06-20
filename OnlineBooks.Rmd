@@ -49,7 +49,11 @@ This is the book website for the book ***[ggplot2: Elegant Graphics for Data Ana
 
 This is the book website for the book ***[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)*** by *Yihui Xie, Christophe Dervieux and Emily Riederer*. The book can be viewed online from this website.
 
+# MATLAB
 
+## Mastering MATLAB
+
+***[Mastering MATLAB, 2012 Edition](http://www.masteringmatlab.com/)***
 
 # Forecasting
 
