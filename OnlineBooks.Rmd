@@ -55,6 +55,13 @@ This is the book website for the book ***[R Markdown Cookbook](https://bookdown.
 
 ***[Mastering MATLAB, 2012 Edition](http://www.masteringmatlab.com/)***
 
+# Econometrics
+
+## Introduction to Econometrics with R
+
+***[Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)*** by *Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer*.
+
+
 # Forecasting
 
 ## Forecasting: principles and practice, 3rd edition
