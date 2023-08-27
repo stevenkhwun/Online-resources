@@ -76,4 +76,6 @@ The author's website can be found [here](https://robjhyndman.com/).
 
 Book [website](https://open.oregonstate.education/computationalbiology/).
 
-Book downloaded in this [folder](C:/Library/Bioinfo/O'Neil_APFCB).
+Book downloaded in this [folder](Library/Bioinfo/O'Neil_APFCB).
+
+Copy this link:
