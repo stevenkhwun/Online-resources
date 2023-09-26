@@ -1,14 +1,13 @@
 ---
-title: "Online Books"
-date: "`r Sys.Date()`"
-author: Steven Wun
+title: Online books
 output:
-  rmdformats::material:
-    highlight: kate
-  pdf_document: default
-  word_document: default
   html_document:
+    toc: true
     number_sections: true
+    toc_float: true
+    theme: cerulean
+  word_document: default
+  pdf_document: default
 ---
 
 ```{r setup, include=FALSE}
@@ -80,10 +79,3 @@ Book [website](https://open.oregonstate.education/computationalbiology/).
 Book downloaded in this [folder](C:/Library/Bioinfo/O'Neil_APFCB).
 
 Copy this link: "C:/Library/Bioinfo/O'Neil_APFCB"
-
-
-# Econometrics
-
-## The Effect
-
-[The Effect](https://theeffectbook.net/index.html) by [Nick Huntington-Klein](https://www.nickchk.com/).
