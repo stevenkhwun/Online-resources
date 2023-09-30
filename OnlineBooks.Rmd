@@ -108,7 +108,11 @@ This book is now in the the second edition which is divided into two parts:
 [Advanced Data Science: Statistics and Prediction Algorithms Through Case Studies](http://rafalab.dfci.harvard.edu/dsbook-part-2/).
 
 
+**Website and PDF copy of its 1st edition**
 
+The first edition of the book can be found [here](http://rafalab.dfci.harvard.edu/dsbook/). The PDF copy of this book can be access in the following folder of the computer:
+
+C:\\Library\\R\\Irizarry_ITDS
 
 
 
