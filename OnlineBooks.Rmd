@@ -97,6 +97,22 @@ C:\\Library\\R\\Wickham_RFDS
 
 
 
+## **Introduction to Data Science: Data Analysis and Prediction Algorithms with R**
+*By Rafael A. Irizarry*
+
+
+This book is now in the the second edition which is divided into two parts:
+
+[Introduction to Data Science: Data Wrangling and Visualization with R](http://rafalab.dfci.harvard.edu/dsbook-part-1/).
+
+[Advanced Data Science: Statistics and Prediction Algorithms Through Case Studies](http://rafalab.dfci.harvard.edu/dsbook-part-2/).
+
+
+
+
+
+
+
 ## **ggplot2: Elegant Graphics for Data Analysis (3e)**
 
 This is the book website for the book ***[ggplot2: Elegant Graphics for Data Analysis (3e)](https://ggplot2-book.org/)*** by *Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen*. The book can be viewed online.
