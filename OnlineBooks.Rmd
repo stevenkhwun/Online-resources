@@ -16,6 +16,44 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
+# Bioinformatics
+
+## A Primer for Computational Biology
+
+Book [website](https://open.oregonstate.education/computationalbiology/).
+
+Copy this link: C:\\Library\\Bioinfo\\O\'Neil_APFCB
+
+to the file explorer to access the book on the computer.
+
+
+# Econometrics
+
+## Introduction to Econometrics with R
+
+***[Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)*** by *Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer*.
+
+
+## The Effect
+
+[The Effect](https://theeffectbook.net/index.html) by [Nick Huntington-Klein](https://www.nickchk.com/).
+
+
+
+# Forecasting
+
+## Forecasting: principles and practice, 3rd edition
+
+This is the book website for the book ***[Forecasting: principles and practice, 3rd edition (2021)](https://otexts.com/fpp3/)*** by *Rob J Hyndman and George Athanasopoulos*. The book can be viewed online.
+
+The author's website can be found [here](https://robjhyndman.com/).
+
+
+
+
+
+
+
 # Machine Learning
 
 ## An Introduction to Statistical Learning
@@ -23,6 +61,16 @@ knitr::opts_chunk$set(echo = TRUE)
 This is the book website for the book ***[An Introduction to Statistical Learning with Applications in R](https://www.statlearning.com/)*** by *Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani*. The PDF version of the book cab be downloaded and viewed online from this website. Further, data and other supporting materials such as Jupyter Notebook and R Markdown files are available.
 
 Data for the book could also be found in my [GitHub site](https://github.com/stevenkhwun/Online-resources/tree/main/ISLR).
+
+
+# MATLAB
+
+## Mastering MATLAB
+
+***[Mastering MATLAB, 2012 Edition](http://www.masteringmatlab.com/)***
+
+
+
 
 
 
@@ -50,39 +98,7 @@ This is the book website for the book ***[ggplot2: Elegant Graphics for Data Ana
 
 This is the book website for the book ***[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)*** by *Yihui Xie, Christophe Dervieux and Emily Riederer*. The book can be viewed online from this website.
 
-# MATLAB
-
-## Mastering MATLAB
-
-***[Mastering MATLAB, 2012 Edition](http://www.masteringmatlab.com/)***
-
-# Econometrics
-
-## Introduction to Econometrics with R
-
-***[Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)*** by *Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer*.
-
-
-## The Effect
-
-[The Effect](https://theeffectbook.net/index.html) by [Nick Huntington-Klein](https://www.nickchk.com/).
 
 
 
-# Forecasting
 
-## Forecasting: principles and practice, 3rd edition
-
-This is the book website for the book ***[Forecasting: principles and practice, 3rd edition (2021)](https://otexts.com/fpp3/)*** by *Rob J Hyndman and George Athanasopoulos*. The book can be viewed online.
-
-The author's website can be found [here](https://robjhyndman.com/).
-
-# Bioinformatics
-
-## A Primer for Computational Biology
-
-Book [website](https://open.oregonstate.education/computationalbiology/).
-
-Copy this link: C:\\Library\\Bioinfo\\O\'Neil_APFCB
-
-to the file explorer to access the book on tbe computer.
