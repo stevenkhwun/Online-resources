@@ -84,17 +84,24 @@ This is the book website for the book ***[Python for Data Analysis: Data Wrangli
 
 # R
 
-## R for Data Science (2e)
+## **R for Data Science (2e)**
+*By Hadley Wickham, Mine Çetinkaya-Rundel and Garrett Grolemund*
 
-This is the book website for the book ***[R for Data Science (2e)](https://r4ds.hadley.nz/)*** by *Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund*. The book can be viewed online from this website.
+The book was published in June 2023 and its website can be found [here](https://r4ds.hadley.nz/). 
 
-The first edition of the book can be found [here](https://r4ds.had.co.nz/).
+**Website and PDF copy of its 1st edition**
 
-## ggplot2: Elegant Graphics for Data Analysis (3e)
+The first edition of the book, which was published in 2017, can be found [here](https://r4ds.had.co.nz/). The PDF copy of this book can be access in the following folder of the computer:
+
+C:\\Library\\R\\Wickham_RFDS
+
+
+
+## **ggplot2: Elegant Graphics for Data Analysis (3e)**
 
 This is the book website for the book ***[ggplot2: Elegant Graphics for Data Analysis (3e)](https://ggplot2-book.org/)*** by *Hadley Wickham, Danielle Navarro, and Thomas Lin Pedersen*. The book can be viewed online.
 
-## R Markdown Cookbook
+## **R Markdown Cookbook**
 
 This is the book website for the book ***[R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/)*** by *Yihui Xie, Christophe Dervieux and Emily Riederer*. The book can be viewed online from this website.
 
