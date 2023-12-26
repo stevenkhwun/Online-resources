@@ -72,6 +72,14 @@ This is the book website for the book ***[An Introduction to Statistical Learnin
 Data for the book could also be found in my [GitHub site](https://github.com/stevenkhwun/Online-resources/tree/main/ISLR).
 
 
+## An R Companion for Introduction to Data Mining (2021)
+*By Michael Hahsler*
+
+This book contains documented R examples to accompany several chapters of the popular data mining textbook *Introduction to Data Mining* by *Pang-Ning Tan, Michael Steinbach, Anuj Karpatne and Vipin Kumar*. The companion book can be used with either edition: 1st edition (Tan, Steinbach, and Kumar 2005) or 2nd edition (Tan et al. 2017).
+
+[Book website](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/book/)
+
+
 # MATLAB
 
 ## Mastering MATLAB
