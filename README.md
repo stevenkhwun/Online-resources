@@ -8,6 +8,12 @@ This repository contains information about some productive tools online and link
 * Cheat Cheets
   * [Matlab](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Cheat_Sheets/MATLAB/Cheatsheet.pdf)
 
+* Handbooks
+  * Python
+    * [pandas](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Handbooks/Python/pandas.pdf)
+  * Statistics
+    * [OUUK M249 Practical Modern Statistics Handbook](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Handbooks/Statistics/OUUK_M249.pdf)
+
 
 # List of data
 
