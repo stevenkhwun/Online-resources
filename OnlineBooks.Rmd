@@ -101,8 +101,15 @@ This free online textbook (OER more formally) is a course in undergraduate real 
 ***[Mastering MATLAB, 2012 Edition](http://www.masteringmatlab.com/)***
 
 
+# Power BI
 
+## Introduction to Power BI
 
+These are the course notes for the “Introduction to Power BI” course given by the [Monash Bioinformatics Platform](https://www.monash.edu/researchinfrastructure/bioinformatics) for the [Monash Data Fluency](https://monashdatafluency.github.io/) initiative.
+
+[Website](https://monashdatafluency.github.io/Power_BI/)
+
+The PDF copy of the notes has been saved at the subfolder /PowerBI of this folder.
 
 
 # Python
