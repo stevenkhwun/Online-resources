@@ -10,7 +10,7 @@ This repository contains information about some productive tools online and link
 
 * Books, handbooks, and notes
   * PowerBI
-    * [Introduction to Power BI]() by Monash Data Fluency Team.
+    * [Introduction to Power BI](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/PowerBI/powerbi-intro.pdf) by Monash Data Fluency Team.
   * Python
     * [pandas](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Handbooks/Python/pandas.pdf)
   * Statistics
