@@ -8,7 +8,9 @@ This repository contains information about some productive tools online and link
 * Cheat Cheets
   * [Matlab](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Cheat_Sheets/MATLAB/Cheatsheet.pdf)
 
-* Handbooks
+* Books, handbooks, and notes
+  * PowerBI
+    * [Introduction to Power BI]() by Monash Data Fluency Team.
   * Python
     * [pandas](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Handbooks/Python/pandas.pdf)
   * Statistics
