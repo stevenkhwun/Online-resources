@@ -118,7 +118,9 @@ The PDF copy of the notes has been saved at the subfolder /PowerBI of this folde
 
 This is the book website for the book ***[Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://wesmckinney.com/book/)*** 3rd Edition by *Wes McKinney*. The book can be viewed online from this site. 
 
+## Intro to Python
 
+[Intro to Python for Computer Science and Data Science](https://mycuhk-my.sharepoint.com/:b:/g/personal/1005271920_link_cuhk_edu_hk/Eciu-llFa-dJjgw6Mz0VdSYBSMz7AIy7iBA2Agu1nOvFSg?email=andykhwun%40gmail.com&e=8cZGhN) by *Paul Deitel* and *Harvey Deitel*. (Password required)
 
 # R
 
@@ -175,3 +177,8 @@ This is the book website for the book ***[R Markdown Cookbook](https://bookdown.
 
 This website contains some textbooks in R.
 
+# Statistics
+
+## Practical Statistics for Data Scientists
+
+[Practical Statistics for Data Scientists: 50+ Essential Concepts Using R and Python](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Statistics/PracticalStatisticsforDataScientists.pdf) by *Peter Bruce, Andrew Bruce & Peter Gedeck*.
