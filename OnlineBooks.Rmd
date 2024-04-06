@@ -94,11 +94,21 @@ This free online textbook (OER more formally) is a course in undergraduate real 
 
 ## Data Science and Machine Learning: Mathematical and Statistical Methods
 
-[Data Science and Machine Learning: Mathematical and Statistical Methods](), 2023, by *Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre, and Radislav Vaisman*.
+[Data Science and Machine Learning: Mathematical and Statistical Methods](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Math-Stat-for-Data-Science/DSML_2023.10.30.pdf), 2023, by *Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre, and Radislav Vaisman*.
 
 More information about the book can be found in the official [Book Website](https://people.smp.uq.edu.au/DirkKroese/DSML/).
 
-Data and codes are available at the [Github](https://github.com/DSML-book/) site.
+Data and codes are available at the [GitHub](https://github.com/DSML-book/) site.
+
+## Mathematics for Machine Learning
+
+[Mathematics for Machine Learning](https://nbviewer.org/github/mml-book/mml-book.github.io/blob/master/book/mml-book.pdf), 2024, by *Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong*. The above link is directly from the GitHub site of the book. The book is continually updated by the authors.
+
+More information about the book can be found in the official [Book Website](https://mml-book.github.io/).
+
+Data and codes are available at the [GitHub](https://github.com/mml-book/mml-book.github.io) site.
+
+
 
 
 # MATLAB
