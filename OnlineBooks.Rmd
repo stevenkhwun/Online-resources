@@ -90,8 +90,15 @@ This book contains documented R examples to accompany several chapters of the po
 
 This free online textbook (OER more formally) is a course in undergraduate real analysis (somewhere it is called "advanced calculus"). The book is meant both for a basic course for students who do not necessarily wish to go to graduate school, but also as a more advanced course that also covers topics such as metric spaces and should prepare students for graduate study.
 
+# Math and Statistics for Data Science
 
+## Data Science and Machine Learning: Mathematical and Statistical Methods
 
+[Data Science and Machine Learning: Mathematical and Statistical Methods](), 2023, by *Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre, and Radislav Vaisman*.
+
+More information about the book can be found in the official [Book Website](https://people.smp.uq.edu.au/DirkKroese/DSML/).
+
+Data and codes are available at the [Github](https://github.com/DSML-book/) site.
 
 
 # MATLAB
