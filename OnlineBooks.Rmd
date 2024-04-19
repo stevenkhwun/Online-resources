@@ -68,7 +68,7 @@ The author's website can be found [here](https://robjhyndman.com/).
 
 ## The Elements of Statistical Learning
 
-**[The Elements of Statistical Learning](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/ESLII_print12_toc.pdf)** (2009, 2nd Edition) by _Trevor Hastie_, _Robert Tibshirani_, and _Jerome Friedman_.
+[The Elements of Statistical Learning](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/ESLII_print12_toc.pdf) (2009, 2nd Edition) by _Trevor Hastie_, _Robert Tibshirani_, and _Jerome Friedman_.
 
 [Book Website](https://hastie.su.domains/ElemStatLearn/)
 
@@ -76,7 +76,7 @@ The author's website can be found [here](https://robjhyndman.com/).
 
 ## An Introduction to Statistical Learning with Applications in Python
 
-**[An Introduction to Statistical Learning with Applications in Python](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/ISLP_website.pdf)** (2023, 1st Edition) by _Gareth James_, _Daniela Witten_, _Trevor Hastie_, _Robert Tishirani_, and _Jonathan Taylor_.
+[An Introduction to Statistical Learning with Applications in Python](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/ISLP_website.pdf) (2023, 1st Edition) by _Gareth James_, _Daniela Witten_, _Trevor Hastie_, _Robert Tishirani_, and _Jonathan Taylor_.
 
 [Book Website](https://www.statlearning.com/)
 
@@ -84,7 +84,7 @@ The author's website can be found [here](https://robjhyndman.com/).
 
 ## An Introduction to Statistical Learning with Applications in R
 
-**[An Introduction to Statistical Learning with Applications in R](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/ISLRv2_corrected_June_2023.pdf)** (2021, 2nd Edition) by _Gareth James_, _Daniela Witten_, _Trevor Hastie_, and _Robert Tibshirani_.
+[An Introduction to Statistical Learning with Applications in R](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/ISLRv2_corrected_June_2023.pdf) (2021, 2nd Edition) by _Gareth James_, _Daniela Witten_, _Trevor Hastie_, and _Robert Tibshirani_.
 
 [Book website](https://www.statlearning.com/)
 
@@ -94,7 +94,7 @@ Data for the book has been downloaded and could be found in my [GitHub site](htt
 
 ## Introduction to Machine Learning with Python
 
-**[Introduction to Machine Learning with Python](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/Introduction-to-Machine-Learning-with-Python.pdf)** (2017) by _Andreas C. Müller_ and _Sarah Guido_.
+[Introduction to Machine Learning with Python](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/Introduction-to-Machine-Learning-with-Python.pdf) (2017) by _Andreas C. Müller_ and _Sarah Guido_.
 
 Datasets and Jupyter Notebooks are available at the book's [GitHub site](https://github.com/amueller/introduction_to_ml_with_python).
 
