@@ -84,7 +84,7 @@ The author's website can be found [here](https://robjhyndman.com/).
 
 ## An Introduction to Statistical Learning with Applications in R
 
-**[An Introduction to Statistical Learning with Applications in R](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/ISLRv2_corrected_June_2023.pdf)** by _Gareth James_, _Daniela Witten_, _Trevor Hastie_, and _Robert Tibshirani_.
+**[An Introduction to Statistical Learning with Applications in R](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/ISLRv2_corrected_June_2023.pdf)** (2021, 2nd Edition) by _Gareth James_, _Daniela Witten_, _Trevor Hastie_, and _Robert Tibshirani_.
 
 [Book website](https://www.statlearning.com/)
 
