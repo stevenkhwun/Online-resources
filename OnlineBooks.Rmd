@@ -68,7 +68,7 @@ The author's website can be found [here](https://robjhyndman.com/).
 
 ## The Elements of Statistical Learning
 
-**[The Elements of Statistical Learning](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/ESLII.pdf)** (2009, 2nd Edition) by _Trevor Hastie_, _Robert Tibshirani_, and _Jerome Friedman_.
+**[The Elements of Statistical Learning](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/ESLII_print12_toc.pdf)** (2009, 2nd Edition) by _Trevor Hastie_, _Robert Tibshirani_, and _Jerome Friedman_.
 
 [Book Website](https://hastie.su.domains/ElemStatLearn/)
 
