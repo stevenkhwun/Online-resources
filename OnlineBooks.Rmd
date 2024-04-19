@@ -91,6 +91,15 @@ The author's website can be found [here](https://robjhyndman.com/).
 Data for the book has been downloaded and could be found in my [GitHub site](https://github.com/stevenkhwun/Online-resources/tree/main/ISLR).
 
 
+
+## Introduction to Machine Learning with Python
+
+**[Introduction to Machine Learning with Python](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/Introduction-to-Machine-Learning-with-Python.pdf)** (2017) by _Andreas C. Müller_ and _Sarah Guido_.
+
+Datasets and Jupyter Notebooks are available at the book's [GitHub site](https://github.com/amueller/introduction_to_ml_with_python).
+
+
+
 ## An R Companion for Introduction to Data Mining (2021)
 *By Michael Hahsler*
 
