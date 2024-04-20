@@ -139,6 +139,14 @@ More information about the book can be found in the official [Book Website](http
 Data and codes are available at the [GitHub](https://github.com/mml-book/mml-book.github.io) site.
 
 
+## Essential Math for Data Science 
+
+[Essential Math for Data Science](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Math-Stat-for-Data-Science/Essential-Math-for-Data-Science.pdf) (2022) by _Thomas Nield_.
+
+Supplemental material (code examples, exercises, etc.) is available for download at
+https://github.com/thomasnield/machine-learning-demo-data.
+
+
 
 
 # MATLAB
