@@ -114,7 +114,9 @@ This book contains documented R examples to accompany several chapters of the po
 ## Basic Analysis: Introduction to Real Analysis
 *By Jiří Lebl*
 
-[Website](https://www.jirka.org/ra/)
+[Web version](https://www.jirka.org/ra/html/frontmatter-1.html)
+
+[Book Website](https://www.jirka.org/ra/)
 
 This free online textbook (OER more formally) is a course in undergraduate real analysis (somewhere it is called "advanced calculus"). The book is meant both for a basic course for students who do not necessarily wish to go to graduate school, but also as a more advanced course that also covers topics such as metric spaces and should prepare students for graduate study.
 
