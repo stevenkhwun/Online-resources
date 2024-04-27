@@ -108,6 +108,12 @@ This book contains documented R examples to accompany several chapters of the po
 [Book website](https://mhahsler.github.io/Introduction_to_Data_Mining_R_Examples/book/)
 
 
+## Practical Machine Learning with Python
+
+[Practical Machine Learning with Python](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/Practical-Machine-Learning-with-Python.pdf) (2018) by _Dipanjan Sarkar_, _Raghav Bali_ and _Tushar Sharma_.
+
+Datasets and Jupyter Notebooks are available at the book's [GitHub site](https://github.com/dipanjanS/practical-machine-learning-with-python).
+
 
 # Mathematical Analysis
 
