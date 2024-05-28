@@ -115,6 +115,11 @@ This book contains documented R examples to accompany several chapters of the po
 Datasets and Jupyter Notebooks are available at the book's [GitHub site](https://github.com/dipanjanS/practical-machine-learning-with-python).
 
 
+## Dive into Deep Learning
+
+[Dive into Deep Learning](https://d2l.ai/index.html) by Aston Zhang, Zachary C. Lipton, Mu Li and [Alexander J. Smola](https://alex.smola.org/)
+
+
 # Mathematical Analysis
 
 ## Basic Analysis: Introduction to Real Analysis
