@@ -32,4 +32,5 @@ This repository contains information about some productive tools online and link
 # Other Online Resources
 
 * [GitHub site](https://github.com/thomasnield) of Thomas Nield, author of the book _Essential Math for Data Science_.
-* [GitHub site](https://github.com/aniketpotabatti) of Aniket Potabatti. His GitHub site contains many textbook pdf copies. 
+* [GitHub site](https://github.com/aniketpotabatti) of Aniket Potabatti. His GitHub site contains many textbook pdf copies.
+* practical-tutorials [GitHub site](https://github.com/practical-tutorials) contains many coding tutorials and sample Jupyter Notebooks.
