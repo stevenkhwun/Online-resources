@@ -34,6 +34,21 @@ to the file explorer to access the book on the computer.
 ***[Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)*** by *Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer*.
 
 
+## Using R for Introductory Econometrics
+
+[Using R for Introductory Econometrics](https://www.urfie.net/downloads/PDF/URfIE_web.pdf), 2020 (2nd edition), by _Florian Heiss_.
+
+## Using Python for Introductory Econometrics
+
+[Using Python for Introductory Econometrics](https://www.urfie.net/downloads/PDF/UPfIE_web.pdf), 2020 (1st edition), by _Florian Heiss_.
+
+## Using Julia for Introductory Econometrics
+
+[Using Julia for Introductory Econometrics](https://www.urfie.net/downloads/PDF/UJfIE_web.pdf), 2023 (1st edition), by _Florian Heiss_ and _Daniel Brunner_. 
+
+
+The companion website for the above three books: https://www.urfie.net/
+
 ## The Effect
 
 [The Effect](https://theeffectbook.net/index.html) by [Nick Huntington-Klein](https://www.nickchk.com/).
