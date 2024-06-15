@@ -104,6 +104,22 @@ The author's website can be found [here](https://robjhyndman.com/).
 [Book Website](https://www.statlearning.com/)
 
 
+## Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition
+
+[Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://mycuhk-my.sharepoint.com/:b:/g/personal/1005271920_link_cuhk_edu_hk/EbWPBuMdsw1AowPko8q62NIBLEe8q1FIg_DRmatm6hSydw?email=andykhwun%40gmail.com&e=jMCmHr) by _Aurélien Géron_. Password is required to access the book.
+
+[2nd edition GitHub Site](https://github.com/ageron/handson-ml2)
+
+3rd edition of the book has been published in October 2022.
+
+[3rd edition GitHub Site](https://github.com/ageron/handson-ml3)
+
+Dataset are available in the GitHub Site for the 1st edition of the book.
+
+[1st edition GitHub Site](https://github.com/ageron/handson-ml)
+
+The data can also be accessed using Python codes, which are available in the Jupiter Notebook samples.
+
 
 ## An Introduction to Statistical Learning with Applications in R
 
