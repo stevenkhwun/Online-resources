@@ -81,7 +81,10 @@ This is the book website for the book ***[Forecasting: principles and practice, 
 The author's website can be found [here](https://robjhyndman.com/).
 
 
+# Julia
 
+## Think Julia
+[Think Julia: How to Think Like a Computer Scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html) (2018) by _Ben Lauwens_ and _Allen Downey_.
 
 
 
@@ -222,6 +225,11 @@ The PDF copy of the notes has been saved at the subfolder /PowerBI of this folde
 ## Python for Data Analysis
 
 This is the book website for the book ***[Python for Data Analysis: Data Wrangling with pandas, NumPy, and Jupyter](https://wesmckinney.com/book/)*** 3rd Edition by *Wes McKinney*. The book can be viewed online from this site. 
+
+## Think Python
+
+[Think Python](https://allendowney.github.io/ThinkPython/index.html#) (2022, 3rd edition) by _Allen B. Downey_.
+
 
 ## Intro to Python
 
