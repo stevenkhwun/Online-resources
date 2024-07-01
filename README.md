@@ -6,7 +6,11 @@ This repository contains information about some productive tools online and link
 
 # Cheat Sheets and Handbooks
 * Cheat Cheets
+  * R
+    * [Data Wrangling  with dplyr and tidyr](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Cheat_Sheets/R/Data_Wrangling_with_dplyr_and_tidyr.pdf)
   * [Matlab](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Cheat_Sheets/MATLAB/Cheatsheet.pdf)
+  * Latex
+    * [Latex Mathematical Symbols](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Cheat_Sheets/LATEX/symbols.pdf)
 
 * Books, handbooks, and notes
   * Machine Learning
