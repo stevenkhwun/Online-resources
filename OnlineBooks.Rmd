@@ -235,6 +235,12 @@ This is the book website for the book ***[Python for Data Analysis: Data Wrangli
 
 [Intro to Python for Computer Science and Data Science](https://mycuhk-my.sharepoint.com/:b:/g/personal/1005271920_link_cuhk_edu_hk/Eciu-llFa-dJjgw6Mz0VdSYBSMz7AIy7iBA2Agu1nOvFSg?email=andykhwun%40gmail.com&e=8cZGhN) by *Paul Deitel* and *Harvey Deitel*. (Password required)
 
+
+## Python Data Science Handbook
+
+This website contains the full text of the [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by *Jake VanderPlas*; the content is available on [GitHub](https://github.com/jakevdp/PythonDataScienceHandbook) in the form of Jupyter notebooks.
+
+
 # R
 
 ## **R for Data Science (2e)**
