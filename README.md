@@ -15,6 +15,7 @@ This repository contains information about some productive tools online and link
 * Books, handbooks, and notes
   * Machine Learning
     * [Practical Machine Learning with Python](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/Machine-Learning/Practical-Machine-Learning-with-Python.pdf)
+    * [An Introduction to Statisical Learning with Applications in Python](https://github.com/stevenkhwun/Online-resources/Books_Handbooks_Notes/Machine-Learning/ISLP_website.pdf)
   * PowerBI
     * [Introduction to Power BI](https://nbviewer.org/github/stevenkhwun/Online-resources/blob/main/Books_Handbooks_Notes/PowerBI/powerbi-intro.pdf) by Monash Data Fluency Team.
   * Python
