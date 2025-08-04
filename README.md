@@ -29,10 +29,7 @@ This repository contains information about some productive tools online and link
 * ISLR
 
   Data for the book An ***Introduction to Statistical Learning with Applications in R*** by   Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani.
-  
-* PS4DS
 
-  Data for the book ***Practical Statistics for Data Scientists*** by Peter Bruce, Andrew Bruce, and Peter Gedeck.
 
 # Other Online Resources
 
